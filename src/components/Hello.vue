@@ -1,5 +1,5 @@
 <template lang="pug">
-  div  sdsadas
+  div  林茂荣
     <button @click=routeTest>dsds</button>
     chart(:autoResize="true" :options="polar")
 </template>
